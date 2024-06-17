@@ -1,5 +1,13 @@
 # Cartola Formula-E: Seu Jogo de Apostas na Corrida Elétrica
 
+## Integrantes
+
+- Jeniffer Moraes - 555448
+- Maria Eduarda - 558457
+- Matheus Diniz - 555683
+- Pedro Schmitz - 555758
+- Rafael Porto – 554939
+
 ## Descrição
 
 O Cartola Formula-E é um jogo interativo em Python que simula uma corrida de Formula-E, permitindo que você faça apostas nos resultados. Acompanhe a ação em tempo real com uma simulação visual da corrida, com carrinhos coloridos representando cada piloto! Escolha os pilotos que subirão ao pódio e a equipe vencedora.
@@ -40,11 +48,3 @@ O Cartola Formula-E é um jogo interativo em Python que simula uma corrida de Fo
 - Integração com Dados Reais
 - Modos de Jogo Adicionais
 - Multiplayer
-
-## Integrantes
-
-- Maria Eduarda
-- Matheus Diniz
-- Jennifer Moraes
-- Pedro Schmitz
-- Rafael Porto
